@@ -1,3 +1,4 @@
+<!-- CSS Style -->
 <style>
   /* Center align */
   .center {
@@ -62,6 +63,8 @@
     color: #FF9800;
   }
 </style>
+
+<!-- Content -->
 <p align="center">
   <img src="https://media2.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e47bpqbt4obwf45j5gmo0u0ivwfs7q398fcfwt9x4bh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
 </p>
