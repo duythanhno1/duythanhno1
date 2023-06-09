@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e47bpqbt4obwf45j5gmo0u0ivwfs7q398fcfwt9x4bh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
+  <img src="https://media2.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e47bpqbt4obwf45j5gmo0u0ivwfs7q398fcfwt9x4bh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" style="float: right; margin-left: 20px;"/>
 </p>
 
-<h1>Hi there, I'm Duy Thanh 🙋‍♂️</h2>
+<h1 align="left">Hi there, I'm Duy Thanh 🙋‍♂️</h1>
 
 <p align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20" height="20" /> Open source is something I'm interested in.
@@ -11,6 +11,7 @@
 <p align="center">
   Game development is an area I'm focusing on right now. 🎮
 </p>
+
 
 <h2>Skills</h2>
 
