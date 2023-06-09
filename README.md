@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e47bpqbt4obwf45j5gmo0u0ivwfs7q398fcfwt9x4bh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" style="float: right; margin-left: 20px;"/>
+  <img src="./img/chill.gif" width="600" style="float: right; margin-left: 20px;"/>
 </p>
 <h1>Hi there, I'm Duy Thanh call me my Pain🙋‍♂️</h1>
 <p>
