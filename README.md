@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://bstyle.vn/wp-content/uploads/2019/11/cach-tao-anh-gif-online-1.gif" />
+  <img src="https://bstyle.vn/wp-content/uploads/2019/11/cach-tao-anh-gif-online-1.gif" width="600" height="400"/>
 </p>
 
 ### Hi there，I'm Duy Thanh 🙋‍♂️
