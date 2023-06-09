@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e47bpqbt4obwf45j5gmo0u0ivwfs7q398fcfwt9x4bh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
 </p>
 
-<h2>Hi there, I'm Duy Thanh 🙋‍♂️</h2>
+<h1>Hi there, I'm Duy Thanh 🙋‍♂️</h2>
 
 <p align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20" height="20" /> Open source is something I'm interested in.
@@ -30,8 +30,7 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40" />
   <br>
-  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="
-
+  <img src="https://img.icons8.com/color/48/000000/unity.png" alt=" <br>
 <h2 style="font-weight: bold; color: #ff0000;">Call me my Pain</h2>
 
   <div class="social-links">
