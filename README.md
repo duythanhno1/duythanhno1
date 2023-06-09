@@ -34,8 +34,7 @@
   <br>
 <h2 style="font-weight: bold; color: #ff0000;">Call me my Pain</h2>
 
-  <div class="social-links">
+  <div align="center">
     <a href="https://www.facebook.com/mr.painno1" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="40" height="40" /></a>
     <a href="mailto:voduythanh.aibot@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email" width="40" height="40" /></a>
   </div>
-</div>
