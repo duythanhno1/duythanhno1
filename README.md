@@ -12,7 +12,7 @@
   Game development is an area I'm focusing on right now. 🎮
 </p>
 
-<h2">Skills</h2>
+<h2>Skills</h2>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="40" height="40" />
