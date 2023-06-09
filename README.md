@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM0NjMyNTM3ZWM3YWMxYWM5MTk0MzU1NWFjM2YyMDgzZDJhOTM5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/t4cCKrEkociVYDJrrr/giphy.gif" width="1200" height="550"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM0NjMyNTM3ZWM3YWMxYWM5MTk0MzU1NWFjM2YyMDgzZDJhOTM5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/t4cCKrEkociVYDJrrr/giphy.gif" width="1200"/>
 </p>
 
 ### Hi there，I'm Duy Thanh 🙋‍♂️
