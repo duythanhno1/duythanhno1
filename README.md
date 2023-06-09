@@ -30,7 +30,8 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40" />
   <br>
-  <img src="https://img.icons8.com/color/48/000000/unity.png" alt=" <br>
+  <img src="https://img.icons8.com/color/48/000000/unity.png" alt=""
+  <br>
 <h2 style="font-weight: bold; color: #ff0000;">Call me my Pain</h2>
 
   <div class="social-links">
