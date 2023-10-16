@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./img/chill.gif" width="600" style="float: right; margin-left: 20px;"/>
 </p>
-<h1>Hi there, I'm Duy Thanh call me my Pain🙋‍♂️</h1>
+<h1>Hi there, I'm Duy Thanh, call me Pain🙋‍♂️</h1>
 <p>
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20" height="20" /> Open source is something I'm interested in.
 </p>
@@ -29,6 +29,6 @@
   <br>
 <h2>Contact</h2>
 <div>
-    <a href="https://www.facebook.com/mr.painno1" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="40" height="40" /></a>
-    <a href="mailto:voduythanh.aibot@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email" width="40" height="40" /></a>
+    <a href="https://www.facebook.com/duythanhme" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="40" height="40" /></a>
+    <a href="mailto:voduythanh.cloud@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email" width="40" height="40" /></a>
 </div>
