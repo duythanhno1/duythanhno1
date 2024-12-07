@@ -29,6 +29,6 @@
   <br>
 <h2>Contact</h2>
 <div>
-    <a href="https://www.facebook.com/duythanhme" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="40" height="40" /></a>
+    <a href="https://www.facebook.com/duy.thanh.01" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="40" height="40" /></a>
     <a href="mailto:voduythanh.cloud@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email" width="40" height="40" /></a>
 </div>
